@@ -1,11 +1,8 @@
-### Module positions - created on 10/05/21 13:08:27 ###
-### Printed by Pcbnew version kicad (5.1.10)-1
+### Module positions - created on 10/19/21 23:42:43 ###
+### Printed by Pcbnew version pcbnew (5.1.10)-1
 ## Unit = mm, Angle = deg.
-## Side : All
+## Side : top
 # Ref     Val             Package                                   PosX       PosY       Rot  Side
-FID2      Fiducial        Fiducial_1mm_Mask2mm                  -17.0967     2.2123    0.0000  bottom
-FID4      Fiducial        Fiducial_1mm_Mask2mm                  -12.9642   -58.5876    0.0000  bottom
-FID6      Fiducial        Fiducial_1mm_Mask2mm                   12.0320   -57.3430    0.0000  bottom
 C3        100nF_16v_X7R   C_0603_1608Metric                      17.8206   -41.8389  270.0000  top
 C4        10uF_16v_X7R    C_0805_2012Metric                      15.8953   -42.0347  270.0000  top
 C5        100nF_10v_X5R   C_0402_1005Metric                     -11.2625   -53.3298  180.0000  top

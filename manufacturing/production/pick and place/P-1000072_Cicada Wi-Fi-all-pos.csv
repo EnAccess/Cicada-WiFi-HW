@@ -1,7 +1,4 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"FID2","Fiducial","Fiducial_1mm_Mask2mm",-17.096740,2.212340,0.000000,bottom
-"FID4","Fiducial","Fiducial_1mm_Mask2mm",-12.964160,-58.587640,0.000000,bottom
-"FID6","Fiducial","Fiducial_1mm_Mask2mm",12.031980,-57.343040,0.000000,bottom
 "C3","100nF 16v X7R","C_0603_1608Metric",17.820640,-41.838880,270.000000,top
 "C4","10uF 16v X7R","C_0805_2012Metric",15.895320,-42.034700,270.000000,top
 "C5","100nF 10v X5R","C_0402_1005Metric",-11.262500,-53.329840,180.000000,top

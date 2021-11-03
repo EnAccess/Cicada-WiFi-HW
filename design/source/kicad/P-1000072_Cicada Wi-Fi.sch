@@ -1133,7 +1133,7 @@ U 1 1 5CEA13D2
 P 13200 9500
 F 0 "LOGO1" H 13200 9640 50  0001 C CNN
 F 1 "SYM_Hot_Small" H 13200 9375 50  0001 C CNN
-F 2 "edemame-custom-footprints:okra_logo_copper_2" H 13200 9325 50  0001 C CNN
+F 2 "Cicada-footprints:okra_logo_copper_2" H 13200 9325 50  0001 C CNN
 F 3 "~" H 13230 9300 50  0001 C CNN
 F 4 "N/A" H 13200 9500 50  0001 C CNN "SMT/THT"
 F 5 "DNP" H 13200 9500 50  0001 C CNN "DNP"
@@ -1251,7 +1251,7 @@ U 1 1 5C247A9E
 P 14250 3200
 F 0 "J3" H 14100 3750 50  0000 C CNN
 F 1 "Host" H 14300 3750 50  0000 C CNN
-F 2 "edemame-custom-footprints:PinSocket_2x08_P2.54mm_Vertical_padded" H 14250 3200 50  0001 C CNN
+F 2 "Cicada-footprints:PinSocket_2x08_P2.54mm_Vertical_padded" H 14250 3200 50  0001 C CNN
 F 3 "~" H 14250 3200 50  0001 C CNN
 F 4 "Generic 2x10 2.54mm Female" H 9100 -350 50  0001 C CNN "Description"
 F 5 "lcsc" H 9100 -350 50  0001 C CNN "SOURCE"
@@ -1421,7 +1421,7 @@ U 1 1 61142335
 P 8050 10000
 F 0 "L2" H 8098 10046 50  0000 L CNN
 F 1 "3.3uH 2A" H 8098 9955 50  0000 L CNN
-F 2 "edemame-custom-footprints:L_4030_Handsoldering" H 8050 10000 50  0001 C CNN
+F 2 "Cicada-footprints:L_4030_Handsoldering" H 8050 10000 50  0001 C CNN
 F 3 "~" H 8050 10000 50  0001 C CNN
 F 4 "FPI0403F-3R3M" H 8050 10000 50  0001 C CNN "MPN"
 F 5 "TAITEC" H 8050 10000 50  0001 C CNN "Manufacturer"
@@ -1809,7 +1809,7 @@ U 1 1 6110BBB6
 P 5250 9700
 F 0 "TP3" H 5308 9818 50  0000 L CNN
 F 1 "5v" V 5250 9900 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 5450 9700 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 5450 9700 50  0001 C CNN
 F 3 "~" H 5450 9700 50  0001 C CNN
 F 4 "DNP" H 5250 9700 50  0001 C CNN "DNP"
 F 5 "N/A" H 5250 9700 50  0001 C CNN "SMT/THT"
@@ -1960,12 +1960,12 @@ Text Label 7050 6150 0    50   ~ 10
 3V3
 NoConn ~ 11050 6600
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP4
+L Connector:TestPoint TP4
 U 1 1 61208EF3
 P 7300 6150
 F 0 "TP4" H 7250 6350 50  0000 L CNN
 F 1 "EN" V 7300 6350 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 7500 6150 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 7500 6150 50  0001 C CNN
 F 3 "" H 7500 6150 50  0001 C CNN
 F 4 "DNP" H 7300 6150 50  0001 C CNN "DNP"
 F 5 "N/A" H 7300 6150 50  0001 C CNN "SMT/THT"
@@ -1973,12 +1973,12 @@ F 5 "N/A" H 7300 6150 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP8
+L Connector:TestPoint TP8
 U 1 1 612094A7
 P 7850 6150
 F 0 "TP8" H 7850 6200 50  0000 L CNN
 F 1 "EN" V 7850 6350 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 8050 6150 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 8050 6150 50  0001 C CNN
 F 3 "" H 8050 6150 50  0001 C CNN
 F 4 "DNP" H 7850 6150 50  0001 C CNN "DNP"
 F 5 "N/A" H 7850 6150 50  0001 C CNN "SMT/THT"
@@ -1986,12 +1986,12 @@ F 5 "N/A" H 7850 6150 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP7
+L Connector:TestPoint TP7
 U 1 1 612140E4
 P 7600 6900
 F 0 "TP7" H 7658 7018 50  0000 L CNN
 F 1 "Vcc" V 7600 7100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 7800 6900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 7800 6900 50  0001 C CNN
 F 3 "" H 7800 6900 50  0001 C CNN
 F 4 "DNP" H 7600 6900 50  0001 C CNN "DNP"
 F 5 "N/A" H 7600 6900 50  0001 C CNN "SMT/THT"
@@ -1999,12 +1999,12 @@ F 5 "N/A" H 7600 6900 50  0001 C CNN "SMT/THT"
 	-1   0    0    1   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP5
+L Connector:TestPoint TP5
 U 1 1 612140EE
 P 7300 6900
 F 0 "TP5" H 7358 7018 50  0000 L CNN
 F 1 "Vcc" V 7300 7100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 7500 6900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 7500 6900 50  0001 C CNN
 F 3 "" H 7500 6900 50  0001 C CNN
 F 4 "DNP" H 7300 6900 50  0001 C CNN "DNP"
 F 5 "N/A" H 7300 6900 50  0001 C CNN "SMT/THT"
@@ -2016,12 +2016,12 @@ Wire Wire Line
 	7300 6900 7600 6900
 Connection ~ 7600 6900
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP29
+L Connector:TestPoint TP29
 U 1 1 6121C5BA
 P 11050 5850
 F 0 "TP29" H 11050 6050 50  0000 L CNN
 F 1 "Tx" V 11050 6050 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 11250 5850 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 11250 5850 50  0001 C CNN
 F 3 "" H 11250 5850 50  0001 C CNN
 F 4 "DNP" H 11050 5850 50  0001 C CNN "DNP"
 F 5 "N/A" H 11050 5850 50  0001 C CNN "SMT/THT"
@@ -2029,12 +2029,12 @@ F 5 "N/A" H 11050 5850 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP32
+L Connector:TestPoint TP32
 U 1 1 6121CBB8
 P 11300 5850
 F 0 "TP32" H 11300 6050 50  0000 L CNN
 F 1 "Tx" V 11300 6050 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 11500 5850 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 11500 5850 50  0001 C CNN
 F 3 "" H 11500 5850 50  0001 C CNN
 F 4 "DNP" H 11300 5850 50  0001 C CNN "DNP"
 F 5 "N/A" H 11300 5850 50  0001 C CNN "SMT/THT"
@@ -2042,12 +2042,12 @@ F 5 "N/A" H 11300 5850 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP35
+L Connector:TestPoint TP35
 U 1 1 6121CBC2
 P 11600 5850
 F 0 "TP35" H 11600 6050 50  0000 L CNN
 F 1 "Tx" V 11600 6050 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 11800 5850 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 11800 5850 50  0001 C CNN
 F 3 "" H 11800 5850 50  0001 C CNN
 F 4 "DNP" H 11600 5850 50  0001 C CNN "DNP"
 F 5 "N/A" H 11600 5850 50  0001 C CNN "SMT/THT"
@@ -2055,12 +2055,12 @@ F 5 "N/A" H 11600 5850 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP26
+L Connector:TestPoint TP26
 U 1 1 612384F7
 P 10750 5900
 F 0 "TP26" V 10750 6100 50  0000 L CNN
 F 1 "Rx" V 10750 6100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 10950 5900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 10950 5900 50  0001 C CNN
 F 3 "" H 10950 5900 50  0001 C CNN
 F 4 "DNP" H 10750 5900 50  0001 C CNN "DNP"
 F 5 "N/A" H 10750 5900 50  0001 C CNN "SMT/THT"
@@ -2068,12 +2068,12 @@ F 5 "N/A" H 10750 5900 50  0001 C CNN "SMT/THT"
 	0    1    1    0   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP30
+L Connector:TestPoint TP30
 U 1 1 61238B1F
 P 11150 5900
 F 0 "TP30" V 11150 6100 50  0000 L CNN
 F 1 "Rx" V 11150 6100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 11350 5900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 11350 5900 50  0001 C CNN
 F 3 "" H 11350 5900 50  0001 C CNN
 F 4 "DNP" H 11150 5900 50  0001 C CNN "DNP"
 F 5 "N/A" H 11150 5900 50  0001 C CNN "SMT/THT"
@@ -2081,12 +2081,12 @@ F 5 "N/A" H 11150 5900 50  0001 C CNN "SMT/THT"
 	0    1    1    0   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP34
+L Connector:TestPoint TP34
 U 1 1 61238B29
 P 11550 5900
 F 0 "TP34" V 11550 6100 50  0000 L CNN
 F 1 "Rx" V 11550 6100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 11750 5900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 11750 5900 50  0001 C CNN
 F 3 "" H 11750 5900 50  0001 C CNN
 F 4 "DNP" H 11550 5900 50  0001 C CNN "DNP"
 F 5 "N/A" H 11550 5900 50  0001 C CNN "SMT/THT"
@@ -2094,12 +2094,12 @@ F 5 "N/A" H 11550 5900 50  0001 C CNN "SMT/THT"
 	0    1    1    0   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP27
+L Connector:TestPoint TP27
 U 1 1 6124214A
 P 10750 6050
 F 0 "TP27" V 10750 6250 50  0000 L CNN
 F 1 "AMP_EN" V 10750 6250 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 10950 6050 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 10950 6050 50  0001 C CNN
 F 3 "" H 10950 6050 50  0001 C CNN
 F 4 "DNP" H 10750 6050 50  0001 C CNN "DNP"
 F 5 "N/A" H 10750 6050 50  0001 C CNN "SMT/THT"
@@ -2112,7 +2112,7 @@ U 1 1 6125EAEB
 P 4750 9700
 F 0 "TP1" H 4808 9818 50  0000 L CNN
 F 1 "5v" V 4750 9900 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 4950 9700 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 4950 9700 50  0001 C CNN
 F 3 "~" H 4950 9700 50  0001 C CNN
 F 4 "DNP" H 4750 9700 50  0001 C CNN "DNP"
 F 5 "N/A" H 4750 9700 50  0001 C CNN "SMT/THT"
@@ -2133,7 +2133,7 @@ U 1 1 612D4AEB
 P 8800 6500
 F 0 "TP15" V 8800 6700 50  0000 L CNN
 F 1 "P12" V 8800 6700 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 9000 6500 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 9000 6500 50  0001 C CNN
 F 3 "~" H 9000 6500 50  0001 C CNN
 F 4 "DNP" H 8800 6500 50  0001 C CNN "DNP"
 F 5 "N/A" H 8800 6500 50  0001 C CNN "SMT/THT"
@@ -2146,7 +2146,7 @@ U 1 1 612D55C4
 P 8800 6350
 F 0 "TP14" V 8800 6550 50  0000 L CNN
 F 1 "P14" V 8800 6550 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 9000 6350 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 9000 6350 50  0001 C CNN
 F 3 "~" H 9000 6350 50  0001 C CNN
 F 4 "DNP" H 8800 6350 50  0001 C CNN "DNP"
 F 5 "N/A" H 8800 6350 50  0001 C CNN "SMT/THT"
@@ -2154,12 +2154,12 @@ F 5 "N/A" H 8800 6350 50  0001 C CNN "SMT/THT"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP33
+L Connector:TestPoint TP33
 U 1 1 612D92F0
 P 11950 6450
 F 0 "TP33" H 11950 6650 50  0000 L CNN
 F 1 "P0" V 11950 6650 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 12150 6450 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 12150 6450 50  0001 C CNN
 F 3 "" H 12150 6450 50  0001 C CNN
 F 4 "DNP" H 11950 6450 50  0001 C CNN "DNP"
 F 5 "N/A" H 11950 6450 50  0001 C CNN "SMT/THT"
@@ -2167,12 +2167,12 @@ F 5 "N/A" H 11950 6450 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP24
+L Connector:TestPoint TP24
 U 1 1 612DA6CF
 P 10450 6500
 F 0 "TP24" V 10450 6700 50  0000 L CNN
 F 1 "P02" V 10450 6700 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 10650 6500 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 10650 6500 50  0001 C CNN
 F 3 "" H 10650 6500 50  0001 C CNN
 F 4 "DNP" H 10450 6500 50  0001 C CNN "DNP"
 F 5 "N/A" H 10450 6500 50  0001 C CNN "SMT/THT"
@@ -2180,12 +2180,12 @@ F 5 "N/A" H 10450 6500 50  0001 C CNN "SMT/THT"
 	0    1    1    0   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP25
+L Connector:TestPoint TP25
 U 1 1 612DABBE
 P 10450 6650
 F 0 "TP25" H 10550 6900 50  0000 L CNN
 F 1 "P15" V 10450 6850 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 10650 6650 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 10650 6650 50  0001 C CNN
 F 3 "" H 10650 6650 50  0001 C CNN
 F 4 "DNP" H 10450 6650 50  0001 C CNN "DNP"
 F 5 "N/A" H 10450 6650 50  0001 C CNN "SMT/THT"
@@ -2193,12 +2193,12 @@ F 5 "N/A" H 10450 6650 50  0001 C CNN "SMT/THT"
 	0    1    1    0   
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP9
+L Connector:TestPoint TP9
 U 1 1 612E5552
 P 8250 5850
 F 0 "TP9" H 8308 5968 50  0000 L CNN
 F 1 "RST" V 8250 6050 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 8450 5850 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 8450 5850 50  0001 C CNN
 F 3 "" H 8450 5850 50  0001 C CNN
 F 4 "DNP" H 8250 5850 50  0001 C CNN "DNP"
 F 5 "N/A" H 8250 5850 50  0001 C CNN "SMT/THT"
@@ -2206,12 +2206,12 @@ F 5 "N/A" H 8250 5850 50  0001 C CNN "SMT/THT"
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP6
+L Connector:TestPoint TP6
 U 1 1 612E5C76
 P 7350 5850
 F 0 "TP6" H 7300 6050 50  0000 L CNN
 F 1 "RST" V 7350 6050 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 7550 5850 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 7550 5850 50  0001 C CNN
 F 3 "" H 7550 5850 50  0001 C CNN
 F 4 "DNP" H 7350 5850 50  0001 C CNN "DNP"
 F 5 "N/A" H 7350 5850 50  0001 C CNN "SMT/THT"
@@ -2225,7 +2225,7 @@ U 1 1 611B363A
 P 8800 5900
 F 0 "TP12" V 8800 6100 50  0000 L CNN
 F 1 "ADC" V 8800 6100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 9000 5900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 9000 5900 50  0001 C CNN
 F 3 "~" H 9000 5900 50  0001 C CNN
 F 4 "DNP" H 8800 5900 50  0001 C CNN "DNP"
 F 5 "N/A" H 8800 5900 50  0001 C CNN "SMT/THT"
@@ -2272,7 +2272,7 @@ U 1 1 612AC5A6
 P 8800 6650
 F 0 "TP16" V 8800 6850 50  0000 L CNN
 F 1 "P13" V 8800 6850 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 9000 6650 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 9000 6650 50  0001 C CNN
 F 3 "~" H 9000 6650 50  0001 C CNN
 F 4 "DNP" H 8800 6650 50  0001 C CNN "DNP"
 F 5 "N/A" H 8800 6650 50  0001 C CNN "SMT/THT"
@@ -2297,12 +2297,12 @@ Icc_OFF (EN=0V, No RF Applied) = 100uA
 Text Notes 700  10200 0    50   ~ 10
 HX3406
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP23
+L Connector:TestPoint TP23
 U 1 1 611AEF34
 P 10250 6900
 F 0 "TP23" V 10250 7100 50  0000 L CNN
 F 1 "GND" V 10250 7100 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 10450 6900 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 10450 6900 50  0001 C CNN
 F 3 "" H 10450 6900 50  0001 C CNN
 F 4 "DNP" H 10250 6900 50  0001 C CNN "DNP"
 F 5 "N/A" H 10250 6900 50  0001 C CNN "SMT/THT"
@@ -2544,7 +2544,7 @@ U 1 1 612D3772
 P 9550 6400
 F 0 "U3" H 9550 7267 50  0000 C CNN
 F 1 "ESP-07S" H 9550 7176 50  0000 C CNN
-F 2 "edemame-custom-footprints:ESP-07S" H 9550 6400 50  0001 C CNN
+F 2 "Cicada-footprints:ESP-07S" H 9550 6400 50  0001 C CNN
 F 3 "http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf" H 9200 6500 50  0001 C CNN
 F 4 "ESP-07S" H 9550 6400 50  0001 C CNN "MPN"
 F 5 "Ai-Thinker" H 9550 6400 50  0001 C CNN "Manufacturer"
@@ -2568,7 +2568,7 @@ U 1 1 612D7526
 P 8800 6200
 F 0 "TP13" V 8800 6400 50  0000 L CNN
 F 1 "P16" V 8800 6400 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 9000 6200 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 9000 6200 50  0001 C CNN
 F 3 "~" H 9000 6200 50  0001 C CNN
 F 4 "DNP" H 8800 6200 50  0001 C CNN "DNP"
 F 5 "N/A" H 8800 6200 50  0001 C CNN "SMT/THT"
@@ -2579,12 +2579,12 @@ Wire Wire Line
 	8800 6650 8800 6750
 NoConn ~ 11050 6300
 $Comp
-L ATE-ACQ-rescue:TestPoint-Connector TP28
+L Connector:TestPoint TP28
 U 1 1 612D8E32
 P 10750 6200
 F 0 "TP28" V 10750 6400 50  0000 L CNN
 F 1 "P4" V 10750 6400 50  0001 L CNN
-F 2 "edemame-custom-footprints:TestPoint_Pad_D1.5mm" H 10950 6200 50  0001 C CNN
+F 2 "okra-footprints:TestPoint_Pad_D1.5mm" H 10950 6200 50  0001 C CNN
 F 3 "" H 10950 6200 50  0001 C CNN
 F 4 "DNP" H 10750 6200 50  0001 C CNN "DNP"
 F 5 "N/A" H 10750 6200 50  0001 C CNN "SMT/THT"
