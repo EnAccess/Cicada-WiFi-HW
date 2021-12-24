@@ -1,0 +1,33 @@
+### Module positions - created on 11/22/21 18:43:20 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                    PosX       PosY       Rot  Side
+C3        100nF_16v_X7R  C_0603_1608Metric       17.8206   -41.8389  270.0000  top
+C4        10uF_16v_X7R   C_0805_2012Metric       15.8953   -42.0347  270.0000  top
+C6        100nF_10v_X5R  C_0402_1005Metric      -12.6694   -35.7480    0.0000  top
+C8        100nF_10v_X5R  C_0402_1005Metric      -16.6013   -35.5067    0.0000  top
+C9        10uF_10v_X5R   C_0402_1005Metric       -1.7451   -35.9689  180.0000  top
+C14       100nF_10v_X5R  C_0402_1005Metric       -1.7451   -34.8971  180.0000  top
+C16       100pF_C0G      C_0402_1005Metric       10.1932   -45.6794    0.0000  top
+C19       100nF_16v_X7R  C_0603_1608Metric       12.0117   -50.6246   90.0000  top
+C20       10uF_16v_X7R   C_0805_2012Metric       13.7820   -50.8104   90.0000  top
+C29       100nF_10v_X5R  C_0402_1005Metric       -8.7248   -13.7109    0.0000  top
+FID1      Fiducial       Fiducial_1mm_Mask2mm   -17.0900     2.2200    0.0000  top
+FID3      Fiducial       Fiducial_1mm_Mask2mm   -12.9489   -58.5927    0.0000  top
+FID5      Fiducial       Fiducial_1mm_Mask2mm    12.0400   -57.3900    0.0000  top
+L2        3.3uH_2A       L_4030_Handsoldering    17.1018   -48.5014  270.0000  top
+R1        40.2k          R_0402_1005Metric       12.4665   -47.7926    0.0000  top
+R4        10K            R_0402_1005Metric      -12.2250   -37.3534  270.0000  top
+R5        10K            R_0402_1005Metric      -16.1214   -37.0892   90.0000  top
+R6        0R             R_0402_1005Metric      -10.2184   -37.1321  270.0000  top
+R7        40.2k          R_0402_1005Metric       10.1829   -44.6253    0.0000  top
+R8        8.87k          R_0402_1005Metric       10.6553   -43.1138   90.0000  top
+R9        22R            R_0402_1005Metric      -14.2519   -14.3562  270.0000  top
+R10       22R            R_0402_1005Metric      -16.2408   -14.3915  270.0000  top
+R11       10K            R_0402_1005Metric       -7.7545   -12.5476  180.0000  top
+R12       22.6K          R_0402_1005Metric       -5.2781    -5.2605   90.0000  top
+R13       340k           R_0402_1005Metric       -6.4770    -5.2730   90.0000  top
+U1        HX3406         TSOT-23-5               12.9260   -44.9269   90.0000  top
+U3        ESP-07S        ESP-07S                -11.3200   -24.7100   90.0000  top
+## End

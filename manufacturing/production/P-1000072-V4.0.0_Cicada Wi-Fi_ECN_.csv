@@ -1,0 +1,17 @@
+Bom_Level,Parent Part,Part Number,Designator,Change Description,Old Version Number,New Version Number,Release Date,"Change Type (modify,remove,add)",Design/Document Change,"Change Over Process (Running, Immediate)",Old CM Part Number,New CM Part Number,Old MPN,New MPN,Old Manufacturer,New Manufacturer,Reason for Change
+1,,P-1000072_Cicada Wi-Fi,C1,"C1 Added “GR108M010F12RR0VL4FP0”, component changed to “ADD” from ”DNP”",3.0.0,4.0.0,2021-11-23,Add,Design,Immediate,NA,NA,GR108M010F12RR0VL4FP0,GR108M010F12RR0VL4FP0,Dongguan Chengxing Elec,Dongguan Chengxing Elec,Power supply improvements
+1,,P-1000072_Cicada Wi-Fi,R13,R13 Changed from 150K-“RC0402FR-0786K6L” to 22.6K-”0402WGF8662TCE”,3.0.0,4.0.0,2021-11-23,modify,Design,Immediate,NA,NA,RC0402FR-0786K6L,0402WGF8662TCE,Yageo,Uniroyal,Board version resistor changed 6.1 to 6.3
+1,,P-1000072_Cicada Wi-Fi,R12,R12 Changed from 150K-”RC0402JR-07150KL” to 86.6K-”0402WGF8662TCE”,3.0.0,4.0.0,2021-11-23,Add,Design,Immediate,NA,NA,RC0402JR-07150KL,0402WGF8662TCE,Yageo,Uniroyal,Corrected version resistor value
+1,,P-1000072_Cicada Wi-Fi,PCB1,"R12,R13 Board Version resistor Pulled up with Vref(3V3) from J3 connector Pin 1 instead of onboard 3V3 Power supply",3.0.0,4.0.0,2021-11-23,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Version resistors are measured by MCU ADC and should be referenced to host 3V3
+1,,P-1000072_Cicada Wi-Fi,,Schematic: Moved 3V3 Testpoints to Power supply section,3.0.0,4.0.0,2021-11-23,modify,Document,Immediate,NA,NA,NA,NA,NA,NA,Layout improvements
+1,,P-1000072_Cicada Wi-Fi,PCB1,"Cleaned up PCB (Copper pour, ground vias,Tracks) ",3.0.0,4.0.0,2021-11-23,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Layout improvements
+1,,P-1000072_Cicada Wi-Fi,PCB1,"R5 Replaced as a PULL-UP resister to GPIO0, previously it was connected series between U1 Pin 12 and J1 Pin 14",2.3.0,3.0.0,2021-11-03,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Bug/Design improvements
+1,,P-1000072_Cicada Wi-Fi,PCB1,"R11 Replaced as a PULL-UP resister to nRST, previously it was connected series between U1 Pin 0 and J1 Pin 16",2.3.0,3.0.0,2021-11-03,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Bug/Design improvements
+1,,P-1000072_Cicada Wi-Fi,"C5,C12.C17,C26,C13, C15, C27,C10, C23,C11, C18, C25,D1, D2 ,J1,J2,L1,L3,L4,R2,R3,U2",Removed amplifier circuit completely from PCB,2.3.0,3.0.0,2021-11-03,remove,Design,Immediate,NA,NA,NA,NA,NA,NA,NA
+1,,P-1000072_Cicada Wi-Fi,,updated Pick and Place .POS file (U2 and U3 has been changed to SMD),2.2.0,2.3.0,2021-10-05,modify,Document,Immediate,NA,NA,NA,NA,NA,NA,M-pack improvement 
+1,,P-1000072_Cicada Wi-Fi,PCB1,updated front mask layer (Clearance: 0.05 and MIN Width: 0.1 ),2.1.0,2.2.0,2021-09-17,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,PCB improvements
+1,,P-1000072_Cicada Wi-Fi,"C2, C21, C22, C24, L4, R9, R10, R12, R13",BOM Mismatch Update,2.0.0,2.1.0,2021-09-17,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,BOM mismatch
+1,,P-1000072_Cicada Wi-Fi,PCB1,improved U3 grounding for RFin and RFout                     ,1.0.0,2.0.0,2021-09-02,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,General improvements
+1,,P-1000072_Cicada Wi-Fi,,Added RC network to U3 and U2 Vcc and IO pins              ,1.0.0,2.0.0,2021-09-02,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,General improvements
+1,,P-1000072_Cicada Wi-Fi,PCB1,"improved 5V5,3V3 and GND Zones                 ",1.0.0,2.0.0,2021-09-02,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,General improvements
+1,,P-1000072_Cicada Wi-Fi,,First release,0.0.0,1.0.0,2021-08-25,Add,Design,Immediate,NA,NA,NA,NA,NA,NA,NA

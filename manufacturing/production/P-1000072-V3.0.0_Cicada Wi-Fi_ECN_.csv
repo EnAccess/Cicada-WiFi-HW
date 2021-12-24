@@ -1,9 +1,0 @@
-Bom_Level,Parent Part,Part Number,Designator,Change Description,Old Version Number,New Version Number,Release Date,"Change Type (modify,remove,add)",Design/Document Change,"Change Over Process (Running, Immediate)",Old CM Part Number,New CM Part Number,Old MPN,New MPN,Old Manufacturer,New Manufacturer,Reason for Change
-1,,P-1000072_Cicada Wi-Fi,,Added PULL-UP resister to GPIO0,2.3.0,3.0.0,2021-11-03,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Bug/Design improvements
-1,,P-1000072_Cicada Wi-Fi,,Added PULL-UP resister to nRST,2.3.0,3.0.0,2021-11-03,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Bug/Design improvements
-1,,P-1000072_Cicada Wi-Fi,,Removed amplifier circuit completely,2.3.0,3.0.0,2021-11-03,remove,Design,Immediate,NA,NA,NA,NA,NA,NA,NA
-1,,P-1000072_Cicada Wi-Fi,,updated POS file (U2 and U3 has been changed to SMD),2.2.0,2.3.0,2021-10-05,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,M-pack improvement 
-1,,P-1000072_Cicada Wi-Fi,,updated front mask layer (Clearance: 0.05 and MIN Width: 0.1 ),2.1.0,2.2.0,2021-09-17,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,PCB improvements
-1,,P-1000072_Cicada Wi-Fi,,"BOM Mismatch Update (C2, C21, C22, C24, L4, R9, R10, R12, R13)",2.0.0,2.1.0,2021-09-17,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,BOM mismatch
-1,,P-1000072_Cicada Wi-Fi,,"Actioned review comments -improved U3 grounding for RFin and RFout                    -Add RC network to U3 and U2 Vcc and IO pins      -improved 5V5,3V3 and GND Zones                       -and some more improvements                     ",1.0.0,2.0.0,2021-09-02,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,General improvements 
-1,,P-1000072_Cicada Wi-Fi,,First release,0.0.0,1.0.0,2021-08-25,Add,Design,Immediate,NA,NA,NA,NA,NA,NA,
