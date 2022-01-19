@@ -1,4 +1,4 @@
-### Module positions - created on 11/22/21 18:43:20 ###
+### Module positions - created on 01/19/22 13:11:37 ###
 ### Printed by Pcbnew version kicad (5.1.10)-1
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -27,7 +27,7 @@ R9        22R            R_0402_1005Metric      -14.2519   -14.3562  270.0000  t
 R10       22R            R_0402_1005Metric      -16.2408   -14.3915  270.0000  top
 R11       10K            R_0402_1005Metric       -7.7545   -12.5476  180.0000  top
 R12       22.6K          R_0402_1005Metric       -5.2781    -5.2605   90.0000  top
-R13       340k           R_0402_1005Metric       -6.4770    -5.2730   90.0000  top
+R13       86.6k          R_0402_1005Metric       -6.4770    -5.2730   90.0000  top
 U1        HX3406         TSOT-23-5               12.9260   -44.9269   90.0000  top
 U3        ESP-07S        ESP-07S                -11.3200   -24.7100   90.0000  top
 ## End

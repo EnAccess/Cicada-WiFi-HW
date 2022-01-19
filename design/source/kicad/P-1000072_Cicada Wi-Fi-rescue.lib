@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# P-1000072_Cicada-Wi-Fi-rescue_CP_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
+# CP_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_CP_Small-Device-P-1000072_Cicada-Wi-Fi-rescue C 0 10 N N 1 F N
+DEF CP_Small-Device-P-1000072_Cicada-Wi-Fi-rescue C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_CP_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 10 -80 50 H V L CNN
+F1 "CP_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -21,11 +21,11 @@ X ~ 2 0 -100 73 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_C_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
+# C_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_C_Small-Device-P-1000072_Cicada-Wi-Fi-rescue C 0 10 N N 1 F N
+DEF C_Small-Device-P-1000072_Cicada-Wi-Fi-rescue C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_C_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 10 -80 50 H V L CNN
+F1 "C_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 10 -80 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -39,11 +39,11 @@ X ~ 2 0 -100 80 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_Conn_02x8_Odd_Even_Side_padding-connector-P-1000072_Cicada-Wi-Fi-rescue
+# Conn_02x8_Odd_Even_Side_padding-connector-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_Conn_02x8_Odd_Even_Side_padding-connector-P-1000072_Cicada-Wi-Fi-rescue J 0 40 Y N 1 F N
+DEF Conn_02x8_Odd_Even_Side_padding-connector-P-1000072_Cicada-Wi-Fi-rescue J 0 40 Y N 1 F N
 F0 "J" 50 500 50 H V C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_Conn_02x8_Odd_Even_Side_padding-connector-P-1000072_Cicada-Wi-Fi-rescue" 50 -600 50 H V C CNN
+F1 "Conn_02x8_Odd_Even_Side_padding-connector-P-1000072_Cicada-Wi-Fi-rescue" 50 -600 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -90,11 +90,11 @@ X Pin_9 9 -200 -100 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_ESP-07S-RF_Module-P-1000072_Cicada-Wi-Fi-rescue
+# ESP-07S-RF_Module-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_ESP-07S-RF_Module-P-1000072_Cicada-Wi-Fi-rescue U 0 20 Y Y 1 F N
+DEF ESP-07S-RF_Module-P-1000072_Cicada-Wi-Fi-rescue U 0 20 Y Y 1 F N
 F0 "U" -500 750 50 H V L CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_ESP-07S-RF_Module-P-1000072_Cicada-Wi-Fi-rescue" 500 750 50 H V R CNN
+F1 "ESP-07S-RF_Module-P-1000072_Cicada-Wi-Fi-rescue" 500 750 50 H V R CNN
 F2 "RF_Module:ESP-07" 0 0 50 H I C CNN
 F3 "" -350 100 50 H I C CNN
 $FPLIST
@@ -121,11 +121,11 @@ X GND 9 600 -500 100 L 50 50 1 1 W
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_Fiducial-Mechanical-P-1000072_Cicada-Wi-Fi-rescue
+# Fiducial-Mechanical-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_Fiducial-Mechanical-P-1000072_Cicada-Wi-Fi-rescue FID 0 20 Y Y 1 F N
+DEF Fiducial-Mechanical-P-1000072_Cicada-Wi-Fi-rescue FID 0 20 Y Y 1 F N
 F0 "FID" 0 200 50 H V C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_Fiducial-Mechanical-P-1000072_Cicada-Wi-Fi-rescue" 0 125 50 H V C CNN
+F1 "Fiducial-Mechanical-P-1000072_Cicada-Wi-Fi-rescue" 0 125 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -136,11 +136,11 @@ C 0 0 50 0 1 20 f
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_GND-power-P-1000072_Cicada-Wi-Fi-rescue
+# GND-power-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_GND-power-P-1000072_Cicada-Wi-Fi-rescue #PWR 0 0 Y Y 1 F P
+DEF GND-power-P-1000072_Cicada-Wi-Fi-rescue #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_GND-power-P-1000072_Cicada-Wi-Fi-rescue" 0 -150 50 H V C CNN
+F1 "GND-power-P-1000072_Cicada-Wi-Fi-rescue" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -149,11 +149,11 @@ X GND 1 0 0 0 D 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_LTC3406ES5-Regulator_Switching-P-1000072_Cicada-Wi-Fi-rescue
+# LTC3406ES5-Regulator_Switching-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_LTC3406ES5-Regulator_Switching-P-1000072_Cicada-Wi-Fi-rescue U 0 10 Y Y 1 F N
+DEF LTC3406ES5-Regulator_Switching-P-1000072_Cicada-Wi-Fi-rescue U 0 10 Y Y 1 F N
 F0 "U" -250 250 50 H V L CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_LTC3406ES5-Regulator_Switching-P-1000072_Cicada-Wi-Fi-rescue" 50 250 50 H V L CNN
+F1 "LTC3406ES5-Regulator_Switching-P-1000072_Cicada-Wi-Fi-rescue" 50 250 50 H V L CNN
 F2 "Package_TO_SOT_SMD:TSOT-23-5" 700 -250 50 H I C CNN
 F3 "" 0 -50 50 H I C CNN
 $FPLIST
@@ -169,11 +169,11 @@ X VOUT 5 400 -100 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_L_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
+# L_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_L_Small-Device-P-1000072_Cicada-Wi-Fi-rescue L 0 10 N N 1 F N
+DEF L_Small-Device-P-1000072_Cicada-Wi-Fi-rescue L 0 10 N N 1 F N
 F0 "L" 30 40 50 H V L CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_L_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 30 -40 50 H V L CNN
+F1 "L_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -192,11 +192,11 @@ X ~ 2 0 -100 20 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_MountingHole_Pad-Mechanical-P-1000072_Cicada-Wi-Fi-rescue
+# MountingHole_Pad-Mechanical-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_MountingHole_Pad-Mechanical-P-1000072_Cicada-Wi-Fi-rescue H 0 40 N N 1 F N
+DEF MountingHole_Pad-Mechanical-P-1000072_Cicada-Wi-Fi-rescue H 0 40 N N 1 F N
 F0 "H" 0 250 50 H V C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_MountingHole_Pad-Mechanical-P-1000072_Cicada-Wi-Fi-rescue" 0 175 50 H V C CNN
+F1 "MountingHole_Pad-Mechanical-P-1000072_Cicada-Wi-Fi-rescue" 0 175 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -208,11 +208,11 @@ X 1 1 0 -100 100 U 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_PCB-Okra_misc-P-1000072_Cicada-Wi-Fi-rescue
+# PCB-Okra_misc-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_PCB-Okra_misc-P-1000072_Cicada-Wi-Fi-rescue PCB 0 40 Y Y 1 F N
+DEF PCB-Okra_misc-P-1000072_Cicada-Wi-Fi-rescue PCB 0 40 Y Y 1 F N
 F0 "PCB" 0 250 118 H V C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_PCB-Okra_misc-P-1000072_Cicada-Wi-Fi-rescue" 0 250 118 H V C CNN
+F1 "PCB-Okra_misc-P-1000072_Cicada-Wi-Fi-rescue" 0 250 118 H V C CNN
 F2 "" 0 0 118 H I C CNN
 F3 "" 0 0 118 H I C CNN
 DRAW
@@ -226,11 +226,11 @@ P 4 0 1 39 -150 100 100 100 100 -50 150 -50 N
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_PWR_FLAG-power-P-1000072_Cicada-Wi-Fi-rescue
+# PWR_FLAG-power-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_PWR_FLAG-power-P-1000072_Cicada-Wi-Fi-rescue #FLG 0 0 N N 1 F P
+DEF PWR_FLAG-power-P-1000072_Cicada-Wi-Fi-rescue #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_PWR_FLAG-power-P-1000072_Cicada-Wi-Fi-rescue" 0 150 50 H V C CNN
+F1 "PWR_FLAG-power-P-1000072_Cicada-Wi-Fi-rescue" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -239,11 +239,11 @@ X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_R_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
+# R_Small-Device-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_R_Small-Device-P-1000072_Cicada-Wi-Fi-rescue R 0 10 N N 1 F N
+DEF R_Small-Device-P-1000072_Cicada-Wi-Fi-rescue R 0 10 N N 1 F N
 F0 "R" 30 20 50 H V L CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_R_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 30 -40 50 H V L CNN
+F1 "R_Small-Device-P-1000072_Cicada-Wi-Fi-rescue" 30 -40 50 H V L CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -256,11 +256,11 @@ X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_SYM_Hot_Small-Graphic-P-1000072_Cicada-Wi-Fi-rescue
+# SYM_Hot_Small-Graphic-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_SYM_Hot_Small-Graphic-P-1000072_Cicada-Wi-Fi-rescue #SYM 0 40 Y N 1 F N
+DEF SYM_Hot_Small-Graphic-P-1000072_Cicada-Wi-Fi-rescue #SYM 0 40 Y N 1 F N
 F0 "#SYM" 0 140 50 H I C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_SYM_Hot_Small-Graphic-P-1000072_Cicada-Wi-Fi-rescue" 0 -125 50 H I C CNN
+F1 "SYM_Hot_Small-Graphic-P-1000072_Cicada-Wi-Fi-rescue" 0 -125 50 H I C CNN
 F2 "" 0 -175 50 H I C CNN
 F3 "" 30 -200 50 H I C CNN
 DRAW
@@ -275,11 +275,11 @@ P 4 0 1 10 -100 -75 100 -75 0 100 -100 -75 f
 ENDDRAW
 ENDDEF
 #
-# P-1000072_Cicada-Wi-Fi-rescue_TestPoint-Connector-P-1000072_Cicada-Wi-Fi-rescue
+# TestPoint-Connector-P-1000072_Cicada-Wi-Fi-rescue
 #
-DEF P-1000072_Cicada-Wi-Fi-rescue_TestPoint-Connector-P-1000072_Cicada-Wi-Fi-rescue TP 0 30 N N 1 F N
+DEF TestPoint-Connector-P-1000072_Cicada-Wi-Fi-rescue TP 0 30 N N 1 F N
 F0 "TP" 0 270 50 H V C CNN
-F1 "P-1000072_Cicada-Wi-Fi-rescue_TestPoint-Connector-P-1000072_Cicada-Wi-Fi-rescue" 0 200 50 H V C CNN
+F1 "TestPoint-Connector-P-1000072_Cicada-Wi-Fi-rescue" 0 200 50 H V C CNN
 F2 "" 200 0 50 H I C CNN
 F3 "" 200 0 50 H I C CNN
 $FPLIST

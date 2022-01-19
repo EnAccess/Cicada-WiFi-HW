@@ -207,4 +207,5 @@
   (lib (name USB_A_Stacked)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/USB_A_Stacked.lib)(options "")(descr ""))
   (lib (name USB_conn)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/USB_conn.lib)(options "")(descr ""))
   (lib (name zx62d-b-5p8)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/zx62d-b-5p8.lib)(options "")(descr ""))
+  (lib (name P-1000072_Cicada-Wi-Fi-rescue)(type Legacy)(uri "${KIPRJMOD}/P-1000072_Cicada Wi-Fi-rescue.lib")(options "")(descr ""))
 )
