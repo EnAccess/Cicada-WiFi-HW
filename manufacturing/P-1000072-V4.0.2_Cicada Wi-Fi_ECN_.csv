@@ -1,4 +1,5 @@
 Bom_Level,Parent Part,Part Number,Designator,Change Description,Old Version Number,New Version Number,Release Date,"Change Type (modify,remove,add)",Design/Document Change,"Change Over Process (Running, Immediate)",Old CM Part Number,New CM Part Number,Old MPN,New MPN,Old Manufacturer,New Manufacturer,Reason for Change
+1,,P-1000072_Cicada Wi-Fi,PCB,Cleaned Top and Bottom Fabrication Layer. ,4.0.1,4.0.2,2022-01-20,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Production output file improvements
 1,,P-1000072_Cicada Wi-Fi,PCB1,updated  R13 to be populated,4.0.0,4.0.1,2022-01-19,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,BOM mismatch
 1,,P-1000072_Cicada Wi-Fi,PCB1,"cleaned schematics, R13 data matched with spec ",4.0.0,4.0.1,2022-01-19,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,Schematics improvements and credibility
 1,,P-1000072_Cicada Wi-Fi,PCB1,"Updated PCB (Pour,Drils and version number in silk)",4.0.0,4.0.1,2022-01-19,modify,Design,Immediate,NA,NA,NA,NA,NA,NA,PCB layout Improvements 
