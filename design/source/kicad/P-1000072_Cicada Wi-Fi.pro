@@ -1,4 +1,4 @@
-update=10/21/2021 10:00:26 AM
+update=3/30/2022 11:59:38 AM
 version=1
 last_client=kicad
 [general]
@@ -54,9 +54,9 @@ CopperTextUpright=1
 EdgeCutLineWidth=0.15
 CourtyardLineWidth=0.05
 OthersLineWidth=0.15
-OthersTextSizeV=1
-OthersTextSizeH=1
-OthersTextSizeThickness=0.15
+OthersTextSizeV=0.25
+OthersTextSizeH=0.25
+OthersTextSizeThickness=0.04
 OthersTextItalic=0
 OthersTextUpright=1
 SolderMaskClearance=0.05

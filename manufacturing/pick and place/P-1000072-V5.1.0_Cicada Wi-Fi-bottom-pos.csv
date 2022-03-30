@@ -2,3 +2,4 @@ Ref,Val,Package,PosX,PosY,Rot,Side
 "FID2","Fiducial","Fiducial_1mm_Mask2mm",-17.096740,2.212340,0.000000,bottom
 "FID4","Fiducial","Fiducial_1mm_Mask2mm",-12.964160,-58.587640,0.000000,bottom
 "FID6","Fiducial","Fiducial_1mm_Mask2mm",12.031980,-57.343040,0.000000,bottom
+"LOGO1","SYM_Hot_Small","okra_logo_copper_2",-16.448000,-14.281000,90.000000,bottom
