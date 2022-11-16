@@ -8,15 +8,17 @@ This repository contains the hardware design for supported Cicada wifi. This HW 
 
 
 ## Manufacturing files:
-If you are only interested in manufacturing the PCBs, you only need files in the /manufacturing/ directory.
-send them to your contract manufacturer of choice, Some examples of turnkey PCBA manufacturers are:
+If you are only interested in manufacturing the PCBs, you only need files in the /manufacturing/ directory. send them to your contract manufacturer of choice,Some examples of other turnkey PCBA manufacturers are:
 
 | Manufacturers | 
 |---------------|
-| Seed Studios |
 | JLCPCB |
 | PCBCart |
 | Bittele |
+
+
+you can also get a plug and play module (might require manual FW update) from https://www.seeedstudio.com/Enaccess-Okra-Cicada-Wifi-Communication-PCBA-p-5421.html?queryID=b07d6b6f6e1a3ef37c510602683a5443&objectID=5421&indexName=bazaar_retailer_products. 
+
 
 The /manufacturing/production directory contains the PCB Gerber/drill files, the BOM, and assembly instructions.
 
