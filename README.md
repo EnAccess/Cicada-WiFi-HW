@@ -17,7 +17,7 @@
   >
   <img
     alt="GitHub Workflow Status"
-    src="https://img.shields.io/github/actions/workflow/status/EnAccess/Cicada-WiFi-HW/markdown-lint.yaml"
+    src="https://img.shields.io/github/actions/workflow/status/EnAccess/Cicada-WiFi-HW/check-generic.yaml"
   >
   <a href="https://github.com/EnAccess/Cicada-WiFi-HW/blob/main/LICENSE" target="_blank">
     <img
@@ -34,7 +34,7 @@
 Cicada WiFi HW - IoT Communications Module for Energy Access.
 An easy way to get production ready, bi-directional communications for your IoT embedded device.
 
-This repository contains the hardware design for supported Cicada wifi. This HW is designed to operate with host running cicada-FW. <https://github.com/EnAccess/Cicada-FW>  
+This repository contains the hardware design for supported Cicada wifi. This HW is designed to operate with host running cicada-FW. <https://github.com/EnAccess/Cicada-FW>
 
 ## Manufacturing files
 
